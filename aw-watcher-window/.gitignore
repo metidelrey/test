@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.egg-info
+build
+dist
+*.swp
+.mypy_cache
+aw-watcher-window-macos
+/env

@@ -1,0 +1,18 @@
+[submodule "aw-server-rust"]
+	path = aw-server-rust
+	url = https://github.com/S-Sohi/aw-server-rust.git
+[submodule "aw-webui"]
+	path = aw-webui
+	url = https://github.com/S-Sohi/aw-webui.git
+[submodule "aw-client"]
+	path = aw-client
+	url = https://github.com/S-Sohi/aw-client.git
+[submodule "aw-watcher-afk"]
+	path = aw-watcher-afk
+	url = https://github.com/S-Sohi/aw-watcher-afk.git
+[submodule "aw-watcher-window"]
+	path = aw-watcher-window
+	url = https://github.com/S-Sohi/aw-watcher-window.git
+[submodule "aw-qt"]
+	path = aw-qt
+	url = https://github.com/S-Sohi/aw-qt.git
